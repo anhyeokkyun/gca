@@ -1,6 +1,6 @@
 # 프로젝트명: 경기콘텐츠진흥원 통합 사업 및 대상(이해관계자) 관리 DB 구축
 
-![DB ERD 설계도](./ERD.png)
+![Gyeonggi Content Agency Database Entity Relationship Diagram](./GCA_DB_ERD.png)
 
 ## 1. 업무 환경 및 시스템 개요
 - **성격:** 지방자치단체 출연 공공기관의 사업, 예산, 관리 대상(기업/개인) 통합 관리
